@@ -3,3 +3,6 @@
 .project
 .classpath
 .settings
+
+# add class files generated
+docroot/WEB-INF/classes
