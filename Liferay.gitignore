@@ -6,3 +6,6 @@
 
 # add class files generated
 docroot/WEB-INF/classes
+
+# totally ignore service.properties
+docroot/WEB-INF/src/service.properties
