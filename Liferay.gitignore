@@ -1,0 +1,5 @@
+# ignore liferay-ide files (Eclipse)
+# Note: these files can be created using `ant setup-eclipse` command
+.project
+.classpath
+.settings
